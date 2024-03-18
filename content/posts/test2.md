@@ -1,7 +1,7 @@
 +++
 title = 'test2'
 date = 2024-03-17T23:01:20+08:00
-draft = true
+draft = false
 tags = ['测试']
 categories = ['测试']
 +++
